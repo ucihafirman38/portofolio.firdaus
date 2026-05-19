@@ -1,0 +1,6 @@
+{
+  "name": "ARCIVE MEDIA DIGITAL.FIRDAUS",
+  "description": "Portofolio digital untuk pengarsipan proyek media listerasi TIK dan media pembelajaran mahasiswa PGSD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
